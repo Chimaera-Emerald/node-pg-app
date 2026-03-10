@@ -17,5 +17,4 @@ jobs:
         with:
           issue-number: ${{ github.event.issue.number }}
           body: |
-            Thanks for opening this issue! 👋
-            This comment was automatically created and can be updated by the workflow.
+            Thank you for opening this issue dawg, We'll get back to you as soon as possible.
