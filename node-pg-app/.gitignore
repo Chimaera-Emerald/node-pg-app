@@ -1,0 +1,10 @@
+node_modules/
+
+# Ignore real env files — never commit secrets
+.env.release
+.env.prod
+
+# Keep the dev env as a reference (no real secrets)
+# .env.dev  <-- intentionally tracked as a template
+
+.DS_Store
